@@ -16,7 +16,6 @@ venv/
 Thumbs.db
 
 # Model files
-*.h5
 *.pkl
 
 # Logs and temp
